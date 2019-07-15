@@ -1,0 +1,14 @@
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.csprojAssemblyReference.cache
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.csproj.CoreCompileInputs.cache
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.AssemblyInfoInputs.cache
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.AssemblyInfo.cs
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.RazorAssemblyInfo.cache
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.RazorAssemblyInfo.cs
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\bin\Debug\netcoreapp2.2\PrjWebApi01.deps.json
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\bin\Debug\netcoreapp2.2\PrjWebApi01.runtimeconfig.json
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\bin\Debug\netcoreapp2.2\PrjWebApi01.runtimeconfig.dev.json
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\bin\Debug\netcoreapp2.2\PrjWebApi01.dll
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\bin\Debug\netcoreapp2.2\PrjWebApi01.pdb
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.RazorTargetAssemblyInfo.cache
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.dll
+C:\Users\MILTON\OneDrive\ASPNETCORE\PrjWebApi01\obj\Debug\netcoreapp2.2\PrjWebApi01.pdb
